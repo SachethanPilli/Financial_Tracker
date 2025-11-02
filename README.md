@@ -2,6 +2,7 @@
 This project aims to build an intuitive expense tracker for smart money management by applying HCI principles for a seamless and user-friendly experience
 
 **Demo**:-https://www.youtube.com/watch?v=VaMfl5fEbuI
+**presentation**:-https://www.canva.com/design/DAG1mqrW2gs/IuHcbXRZmI7pGl5WiFLEVQ/edit?utm_content=DAG1mqrW2gs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 Follow these steps:
 
