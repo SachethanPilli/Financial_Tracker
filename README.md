@@ -1,4 +1,8 @@
-<<<<<<< HEAD
+# Financial_Tracker
+This project aims to build an intuitive expense tracker for smart money management by applying HCI principles for a seamless and user-friendly experience
+
+**Demo**:-https://www.youtube.com/watch?v=VaMfl5fEbuI
+
 Follow these steps:
 
 ```sh
@@ -25,6 +29,4 @@ This project is built with .
 - shadcn-ui
 - Tailwind CSS
 =======
-# Financial_Tracker
-This project aims to build an intuitive expense tracker for smart money management by applying HCI principles for a seamless and user-friendly experience
->>>>>>> 17cbede256f43c96bfb812acc522078ca924d2f3
+
